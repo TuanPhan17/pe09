@@ -1,0 +1,90 @@
+Plane crashed after 3D-printed part collapsed
+https://www.bbc.com/news/articles/c1w932vqye0o
+
+CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication Through RL
+https://github.com/deepreinforce-ai/CUDA-L2
+
+Multivox: Volumetric Display
+https://github.com/AncientJames/multivox
+
+Transparent leadership beats servant leadership
+https://entropicthoughts.com/transparent-leadership-beats-servant-leadership
+
+Why are 38 percent of Stanford students saying they're disabled?
+https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/
+
+It’s time to free JavaScript (2024)
+https://javascript.tm/letter
+
+Hammersmith Bridge – Where did 25,000 vehicles go?
+https://nickmaini.substack.com/p/hammersmith-bridge
+
+Django 6
+https://docs.djangoproject.com/en/6.0/releases/6.0/
+
+PyTogether: Collaborative lightweight real-time Python IDE for teachers/learners
+https://github.com/SJRiz/pytogether
+
+How elites could shape mass preferences as AI reduces persuasion costs
+https://arxiv.org/abs/2512.04047
+
+Thoughts on Go vs. Rust vs. Zig
+https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/
+
+I ignore the spotlight as a staff engineer
+https://lalitm.com/software-engineering-outside-the-spotlight/
+
+Show HN: Onlyrecipe 2.0 – I added all features HN requested – 4 years later
+https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903
+
+Feynman vs. Computer
+https://entropicthoughts.com/feynman-vs-computer
+
+The RAM shortage comes for us all
+https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all
+
+Converge (YC S23) is hiring a martech expert in NYC
+https://www.runconverge.com/careers/technical-customer-success-manager
+
+Autism should not be treated as a single condition
+https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition
+
+Fighting the age-gated internet
+https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/
+
+Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing
+https://www.browserbuddy.com/
+
+Who Hooked Up a Laptop to a 1930s Dance Hall Machine?
+https://www.chrisbako.com/posts/2025-12-04-speelkok-museam
+
+Microsoft drops AI sales targets in half after salespeople miss their quotas
+https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/
+
+Functional Quadtrees
+https://lbjgruppen.com/en/posts/functional-quadtree-clojure
+
+PGlite – Embeddable Postgres
+https://pglite.dev/
+
+CJEU has made it effectively impossible to run a user-generated platform legally
+https://www.techdirt.com/2025/12/04/eus-top-court-just-made-it-literally-impossible-to-run-a-user-generated-content-platform-legally/
+
+Yawning abyss of the decimal labyrinth
+https://oh4.co/site/numogrammaticism.html
+
+Uncloud - Tool for deploying containerised apps across servers without k8s
+https://uncloud.run/
+
+A lost Amazon world just reappeared in Bolivia
+https://www.frontiersin.org/news/2025/11/06/landscapes-that-remember-indigenous-peoples-thrived-amazon
+
+A Most Important Mustard
+https://www.asimov.press/p/arabidopsis
+
+RAM is so expensive, Samsung won't even sell it to Samsung
+https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html
+
+Tunnl.gg
+https://tunnl.gg
+

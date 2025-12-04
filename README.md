@@ -1,4 +1,4 @@
-# HOS-09 – Web Scraping News Links 📰  
+# PE09 – Web Scraping News Links 📰  
 # City University of Seattle | Fundamentals of Computing (IS-201)
 
 ## Overview & How It Works 🌐📄  
@@ -20,4 +20,4 @@ Install required packages:
 
 ```bash
 python -m pip install requests beautifulsoup4
-# pe09
+
